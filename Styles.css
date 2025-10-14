@@ -10,3 +10,7 @@ p {
     font-size: x-large;
     font-weight: bold;
 }
+img {
+    size: 50%;
+    color: cyan;
+}
