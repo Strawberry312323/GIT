@@ -1,0 +1,12 @@
+body {
+    background-color: darkblue;
+}
+h1 {
+    color: cyan;
+    font-weight: bold;
+}
+p {
+    color: cyan;
+    font-size: x-large;
+    font-weight: bold;
+}
